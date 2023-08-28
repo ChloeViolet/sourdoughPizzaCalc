@@ -1,6 +1,6 @@
 # Subtracts sourdough's hydration from dough
 # Flour weight is in baker's percentage
-# 100% flour, 60% hydration = 100g flour, 60g water
+# 100% flour, 60% hydration, 25% sourdough = 100g flour, 60g water, 25g starter
 
 def tryInput(prompt, default):
     try:
